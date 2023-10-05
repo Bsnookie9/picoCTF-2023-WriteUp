@@ -9,13 +9,13 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>Binary Exploitation (0/7)</summary>
 
-  * [babygame01] LINK (Unsolved)
-  * [two-sum] LINK (Unsolved)
-  * [babygame02] LINK (Unsolved)
-  * [hijacking] LINK (Unsolved)
-  * [tic-tac] LINK (Unsolved)
-  * [VINE] LINK (Unsolved)
-  * [Horsetrack] LINK (Unsolved)
+  * [babygame01] (Unsolved)
+  * [two-sum] (Unsolved)
+  * [babygame02] (Unsolved)
+  * [hijacking] (Unsolved)
+  * [tic-tac] (Unsolved)
+  * [VINE] (Unsolved)
+  * [Horsetrack] (Unsolved)
     
 </details>
 
@@ -25,10 +25,10 @@ Here are the write-ups for the challenges I completed
   * [HideToSee](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/HideToSee) (Solved)
   * [ReadMyCert](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/ReadMyCert) (Solved)
   * [rotation](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/rotation) (Solved)
-  * [PowerAnalysis: Warmup] LINK (Unsolved)
-  * [PowerAnalysis: Part 1] LINK (Unsolved)
-  * [SRA] LINK (Unsolved)
-  * [PowerAnalysis: Part 2] LINK (Unsolved)
+  * [PowerAnalysis: Warmup]  (Unsolved)
+  * [PowerAnalysis: Part 1] (Unsolved)
+  * [SRA] (Unsolved)
+  * [PowerAnalysis: Part 2] (Unsolved)
     
 </details>
 
@@ -38,10 +38,10 @@ Here are the write-ups for the challenges I completed
   * [hideme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/hideme) (Solved)
   * [PcapPoisoning](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/PcapPoisoning) (Solved)
   * [who is it](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/who%20is%20it) (Solved)
-  * [FindAndOpen] LINK (Unsolved)
-  * [MSB] LINK (Unsolved)
-  * [Invisible WORDs] LINK (Unsolved)
-  * [UnforgottenBits] LINK (Unsolved)
+  * [FindAndOpen] (Unsolved)
+  * [MSB] (Unsolved)
+  * [Invisible WORDs] (Unsolved)
+  * [UnforgottenBits] (Unsolved)
     
 </details>
 
@@ -61,27 +61,27 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>Reverse Engineering (0/9)</summary>
 
-  * [Ready Gladiator 0] LINK (Unsolved)
-  * [Reverse] LINK (Unsolved)
-  * [Safe Opener 2] LINK (Unsolved)
-  * [timer] LINK (Unsolved)
-  * [Virtual Machine 0] LINK (Unsolved)
-  * [No way out] LINK (Unsolved)
-  * [Ready Gladiator 1] LINK (Unsolved)
-  * [Virtual Machine 1] LINK (Unsolved)
-  * [Ready Gladiator 2] LINK (Unsolved)
+  * [Ready Gladiator 0] (Unsolved)
+  * [Reverse] (Unsolved)
+  * [Safe Opener 2] (Unsolved)
+  * [timer] (Unsolved)
+  * [Virtual Machine 0] (Unsolved)
+  * [No way out] (Unsolved)
+  * [Ready Gladiator 1] (Unsolved)
+  * [Virtual Machine 1] (Unsolved)
+  * [Ready Gladiator 2] (Unsolved)
     
 </details>
 
 <details>
   <summary>Web Exploitation (0/7)</summary>
 
-  * [findme] LINK (Unsolved)
-  * [MatchTheRegex] LINK (Unsolved)
-  * [SOAP] LINK (Unsolved)
-  * [More SQLi] LINK (Unsolved)
-  * [Java Code Analysis!?!] LINK (Unsolved)
-  * [cancri-sp] LINK (Unsolved)
-  * [msfroggenerator2] LINK (Unsolved)
+  * [findme] (Unsolved)
+  * [MatchTheRegex] (Unsolved)
+  * [SOAP] (Unsolved)
+  * [More SQLi] (Unsolved)
+  * [Java Code Analysis!?!] (Unsolved)
+  * [cancri-sp] (Unsolved)
+  * [msfroggenerator2] (Unsolved)
     
 </details>
