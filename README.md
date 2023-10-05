@@ -22,7 +22,7 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>Cryptography (3/7)</summary>
 
-  * [HideToSee] LINK (Solved)
+  * [HideToSee](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/HideToSee) (Solved)
   * [ReadMyCert] LINK (Solved)
   * [rotation] LINK (Solved)
   * [PowerAnalysis: Warmup] LINK (Unsolved)
