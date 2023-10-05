@@ -38,7 +38,7 @@ Here are the write-ups for the challenges I completed
   * [hideme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/hideme) (Solved)
   * [PcapPoisoning](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/PcapPoisoning) (Solved)
   * [who is it](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/who%20is%20it) (Solved)
-  * [FindAndOpen] (Unsolved)
+  * [FindAndOpen](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/FindAndOpen) (Solved)
   * [MSB] (Unsolved)
   * [Invisible WORDs] (Unsolved)
   * [UnforgottenBits] (Unsolved)
