@@ -23,8 +23,8 @@ Here are the write-ups for the challenges I completed
   <summary>Cryptography (3/7)</summary>
 
   * [HideToSee](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/HideToSee) (Solved)
-  * [ReadMyCert] LINK (Solved)
-  * [rotation] LINK (Solved)
+  * [ReadMyCert](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/ReadMyCert) (Solved)
+  * [rotation](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Cryptography/rotation) (Solved)
   * [PowerAnalysis: Warmup] LINK (Unsolved)
   * [PowerAnalysis: Part 1] LINK (Unsolved)
   * [SRA] LINK (Unsolved)
@@ -35,9 +35,9 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>Forensics (3/7)</summary>
 
-  * [hideme] LINK (Solved)
-  * [PcapPoisoning] LINK (Solved)
-  * [who is it] LINK (Solved)
+  * [hideme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/hideme) (Solved)
+  * [PcapPoisoning](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/PcapPoisoning) (Solved)
+  * [who is it](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Forensics/who%20is%20it) (Solved)
   * [FindAndOpen] LINK (Unsolved)
   * [MSB] LINK (Unsolved)
   * [Invisible WORDs] LINK (Unsolved)
@@ -48,13 +48,13 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>General Skills (7/7)</summary>
 
-  * [chrono] LINK (Solved)
-  * [money-ware] LINK (Solved)
-  * [Permissions] LINK (Solved)
-  * [repititions] LINK (Solved)
-  * [useless] LINK (Solved)
-  * [Speical] LINK (Solved)
-  * [Speicaler] LINK (Solved)
+  * [chrono](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/chrono) (Solved)
+  * [money-ware](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/money-ware) (Solved)
+  * [Permissions](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/Permissions) (Solved)
+  * [repititions](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/repititions) (Solved)
+  * [useless](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/useless) (Solved)
+  * [Speical](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/Special) (Solved)
+  * [Speicaler](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/General%20Skills/Specialer) (Solved)
     
 </details>
 
