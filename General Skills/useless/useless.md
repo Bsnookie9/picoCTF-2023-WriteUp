@@ -17,6 +17,8 @@ First, SSH into the server
 
 There's a file called `useless`, so run the script `./useless`
 
+![use(5)](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/assets/106827110/4317cd16-6f10-4578-ae94-e7f81b6baf61)
+
 It outputs "Read the code first", so `cat` the file. _Alternatively, you can use `nano` or another editor_
 
 ![use(3)](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/assets/106827110/514f739a-9164-45a3-9516-3a83dc125aa5)
