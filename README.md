@@ -3,8 +3,6 @@
 # Overview
 Here are the write-ups for the challenges I completed
 
-# Progress
-
 # Challenges
 <details>
   <summary>Binary Exploitation (0/7)</summary>
