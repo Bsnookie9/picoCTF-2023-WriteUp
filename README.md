@@ -72,9 +72,9 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>Web Exploitation (0/7)</summary>
+  <summary>Web Exploitation (1/7)</summary>
 
-  * [findme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/findme) (Unsolved)
+  * [findme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/findme) (Solved)
   * [MatchTheRegex](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/MatchTheRegex) (Unsolved)
   * [SOAP](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/SOAP) (Unsolved)
   * [More SQLi](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/More%20SQLi) (Unsolved)
