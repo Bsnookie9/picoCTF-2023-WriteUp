@@ -78,7 +78,7 @@ Here are the write-ups for the challenges I completed
   * [MatchTheRegex] (Unsolved)
   * [SOAP] (Unsolved)
   * [More SQLi] (Unsolved)
-  * [Java Code Analysis!?!] (Unsolved)
+  * [Java Code Analysis!?!](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/Java%20Code%20Analysis!%3F!) (Unsolved)
   * [cancri-sp] (Unsolved)
   * [msfroggenerator2] (Unsolved)
     
