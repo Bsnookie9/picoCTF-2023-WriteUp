@@ -74,12 +74,12 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>Web Exploitation (0/7)</summary>
 
-  * [findme] (Unsolved)
-  * [MatchTheRegex] (Unsolved)
-  * [SOAP] (Unsolved)
-  * [More SQLi] (Unsolved)
+  * [findme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/findme) (Unsolved)
+  * [MatchTheRegex](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/MatchTheRegex) (Unsolved)
+  * [SOAP](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/SOAP) (Unsolved)
+  * [More SQLi](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/More%20SQLi) (Unsolved)
   * [Java Code Analysis!?!](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/Java%20Code%20Analysis!%3F!) (Unsolved)
-  * [cancri-sp] (Unsolved)
-  * [msfroggenerator2] (Unsolved)
+  * [cancri-sp](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/cancri-sp) (Unsolved)
+  * [msfroggenerator2](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/msfroggenerator2) (Unsolved)
     
 </details>
