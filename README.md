@@ -72,13 +72,13 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>Web Exploitation (1/7)</summary>
+  <summary>Web Exploitation (5/7)</summary>
 
   * [findme](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/findme) (Solved)
-  * [MatchTheRegex](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/MatchTheRegex) (Unsolved)
-  * [SOAP](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/SOAP) (Unsolved)
-  * [More SQLi](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/More%20SQLi) (Unsolved)
-  * [Java Code Analysis!?!](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/Java%20Code%20Analysis!%3F!) (Unsolved)
+  * [MatchTheRegex](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/MatchTheRegex) (Solved)
+  * [SOAP](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/SOAP) (Solved)
+  * [More SQLi](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/More%20SQLi) (Solved)
+  * [Java Code Analysis!?!](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/Java%20Code%20Analysis!%3F!) (Solved)
   * [cancri-sp](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/cancri-sp) (Unsolved)
   * [msfroggenerator2](https://github.com/Bsnookie9/picoCTF-2023-WriteUp/tree/main/Web%20Exploitation/msfroggenerator2) (Unsolved)
     
